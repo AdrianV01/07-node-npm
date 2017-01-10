@@ -1,0 +1,19 @@
+{
+  "name": "starter-code",
+  "version": "0.9.0",
+  "description": "\"this is my amazing lab displaying my total lack of skills\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "yo",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "village",
+    "people"
+  ],
+  "author": "Adrian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
